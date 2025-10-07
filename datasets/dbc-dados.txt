@@ -1,0 +1,20 @@
+Tr	Bl	Y
+700w2m BlocoI 14,60
+700w2m BlocoII 15,01
+700w2m BlocoIII 14,15
+700w2m BlocoIV 15,07
+700w2m BlocoV 15,07
+700w2m BlocoVI 15,46
+350w1m BlocoI 14,84
+350w1m BlocoII 15,40
+350w1m BlocoIII 14,08
+350w1m BlocoIV 14,69
+350w1m BlocoV 15,40
+350w1m BlocoVI 14,65
+Controle BlocoI 13,40
+Controle BlocoII 14,20
+Controle BlocoIII 13,22
+Controle BlocoIV 13,81
+Controle BlocoV 13,98
+Controle BlocoVI 14,42
+

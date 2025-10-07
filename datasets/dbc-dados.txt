@@ -1,4 +1,4 @@
-Tr	Bl	Y
+Tr Bl Y
 700w2m BlocoI 14,60
 700w2m BlocoII 15,01
 700w2m BlocoIII 14,15

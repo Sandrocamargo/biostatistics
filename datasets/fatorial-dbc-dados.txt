@@ -1,4 +1,4 @@
-TR	VAR	PROT	BL	 PG
+TR	VAR	PROT	BL	PG
 1	Bra	Ur	1	168
 2	Bra	Far	1	177
 3	Can	Ur	1	170
